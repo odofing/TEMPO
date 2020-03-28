@@ -1,0 +1,41 @@
+.jumbotron{
+    background-image: url("../img/banner-bg.jpg"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+    font-size: x-large;
+}
+
+ .card {
+    border: none;
+    background: none;
+
+}
+
+
+
+#icons {
+    color: red;
+
+}
+
+.navbar .nav-link {
+    text-transform: uppercase;
+   
+    color:black;
+}
+
+ .navbar-brand {
+     color: red;
+ }
+
+#inner-section {
+    margin-top:  180px;
+
+}
+.container a {
+    background: none;
+    margin-top: 30px;
+}
